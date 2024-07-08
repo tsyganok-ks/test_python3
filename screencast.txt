@@ -1,0 +1,14 @@
+The file was too big, I placed it on my YandexDrive: https://disk.yandex.ru/i/-z67Z16YXvK-7Q
+
+------------
+Some inconvinience
+------------
+If I full understand: Profiler isn't available for IntelliJ IDEA Community Edition, it comes only for professional, but I can't now download it, because I have an error:
+
+(https://download.jetbrains.com/idea/ideaIU-2024.1.4.exe)
+451
+Unavailable For Legal Reasons
+
+We are sorry, but we are currently unable to provide our products or services to you due to export control regulations.
+
+But if it still needs, I will find the solution.
