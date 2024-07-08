@@ -111,15 +111,11 @@ class DrawPlots:
         return paths_plots
 
 
+def main():
+    path_df = 'data/deviation.json'
 
+    list_of_plots = DrawPlots().draw_plots(path_df)
+    print(list_of_plots)
 
-path_df = 'data/deviation.json'
-
-
-a = DrawPlots()
-z = a.draw_plots(path_df)
-print(z)
-
-
-#curr_df = json.loads('data/deviation.json')
-#b = curr_df.columns
+if __name__ == "__main__":
+    main()
